@@ -1,9 +1,7 @@
 <p align="center">
-
-<img width="724" height="414" alt="RSA" src="https://github.com/user-attachments/assets/4a7f33dc-4da9-40bf-baf1-4e73a865296a" />
-
-
+  <img src="https://github.com/user-attachments/assets/4a7f33dc-4da9-40bf-baf1-4e73a865296a" style="width:100%; max-width:1200px;">
 </p>
+
 
 # 🔐 Déchiffrement RSA CTF
 
