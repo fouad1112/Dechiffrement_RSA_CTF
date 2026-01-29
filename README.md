@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/fouad1112/Dechiffrement_RSA_CTF/issues/1#issue-3872342957" width="650">
+
+<img width="724" height="414" alt="RSA" src="https://github.com/user-attachments/assets/4a7f33dc-4da9-40bf-baf1-4e73a865296a" />
+
+
 </p>
 
 # 🔐 Déchiffrement RSA CTF
